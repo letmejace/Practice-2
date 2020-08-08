@@ -10,4 +10,4 @@ Watch tutorial on YouTube.
 
 1. Open index.html in your browser
 2. Have a fun
-
+3. Have nice day
