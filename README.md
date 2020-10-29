@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://goodfirstissue.dev" target="_blank">
     Practice-2
-  </a>
-</p>
+
 <hr>
 
 Welcome! 👋🏼
