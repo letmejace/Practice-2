@@ -16,5 +16,5 @@ Follow these simple steps:
 * Add your repository's path in [data/repositories.toml](data/repositories.toml).
 
 * Create a new pull-request. Once the pull-request is merged , the changes will be live on [goodfirstissue.dev](https://goodfirstissue.dev/)
-
+ 
 
