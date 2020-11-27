@@ -2,7 +2,7 @@
 Welcome! 👋🏼
 
 **Good First Issue** is an initiaitive to curate easy pickings from popular projects, so developers who've never made a contribution to open-source can get started easily.
-  
+   
 Open-source maintainers are always looking  to get more people involved, but new developers generally think it's difficult to become a contributor. We believe getting developers to fix super-easy issues removes the barrier for future contributions. This is why Good First Issue exists.
  
 ## Adding a new project  
