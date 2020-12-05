@@ -1,5 +1,5 @@
 
-Welcome! 👋🏼
+Welcome! 👋🏼  
   
 **Good First Issue** is an initiaitive to curate easy pickings from popular projects, so developers who've never made a contribution to open-source can get started easily.
     
